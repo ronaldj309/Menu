@@ -45,3 +45,4 @@ int main( int nArgs, char *Args[] )
 	
 	PutString( "\nNormal exit\n >:)\n" );
 }
+
